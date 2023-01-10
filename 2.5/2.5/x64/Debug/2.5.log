@@ -1,0 +1,3 @@
+﻿  2.5.cpp
+C:\Users\Lisaru\source\repos\TemaOOp\2\2.5\2.5\2.5.cpp(19,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  2.5.vcxproj -> C:\Users\Lisaru\source\repos\TemaOOp\2\2.5\x64\Debug\2.5.exe
